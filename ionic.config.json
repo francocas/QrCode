@@ -1,0 +1,8 @@
+{
+  "name": "qrcodigo",
+  "app_id": "91bcf2b8",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
